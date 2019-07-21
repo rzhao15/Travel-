@@ -1,2 +1,2 @@
 # Travel Plus
-# only part of the important code of the project is uploaded
+only part of the project code is uploaded
